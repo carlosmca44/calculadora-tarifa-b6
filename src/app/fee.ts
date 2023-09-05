@@ -1,0 +1,20 @@
+export const fees = [
+  {consumed: '100',	fee: '0.33'},
+  {consumed: '50',	fee: '1.07'},
+  {consumed: '50',	fee: '1.43'},
+  {consumed: '50',	fee: '2.46'},
+  {consumed: '50',	fee: '3.00'},
+  {consumed: '50',	fee: '4.00'},
+  {consumed: '50',	fee: '5.00'},
+  {consumed: '50',	fee: '6.00'},
+  {consumed: '50',	fee: '7.00'},
+  {consumed: '100',	fee: '9.20'},
+  {consumed: '100',	fee: '9.45'},
+  {consumed: '300',	fee: '9.85'},
+  {consumed: '800',	fee: '10.80'},
+  {consumed: '800',	fee: '11.80'},
+  {consumed: '800',	fee: '12.90'},
+  {consumed: '800',	fee: '13.95'},
+  {consumed: '800',	fee: '15.00'},
+  {consumed: '+5000', fee: '20.00'}
+]
