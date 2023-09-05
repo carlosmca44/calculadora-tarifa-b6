@@ -1,6 +1,7 @@
 'use client'
 import { ChangeEvent, useState } from "react"
 import { fees } from "./fee"
+import React from "react"
 
 export default function Home() {
   const [lastMonth, setLastMonth] = useState<number>(0)
